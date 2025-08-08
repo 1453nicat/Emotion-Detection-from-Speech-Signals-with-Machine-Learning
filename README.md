@@ -13,12 +13,5 @@ Furthermore, it implements a deep learning model for classifying human emotions 
 - **Output**: 6-class softmax for emotion classification
 - **Accuracy**: ~53% (due to data imbalance and complexity of emotional expression)
 
-
-## Dataset
-[CREMA-D: Crowd-Sourced Emotional Multimodal Actors Dataset](https://doi.org/10.1109/TAFFC.2014.2336245)
-
 MIT License
 Copyright (c) 2025 *1453nicat*
-## Author
-[Your Name]  
-*Speech Emotion Recognition Project – Academic Study*
